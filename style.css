@@ -1,0 +1,16 @@
+.carousel-item img{
+    height: 85vh;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+}
+
+
+.accordion-item{
+    border: none;
+}
+
+.accordion_border{
+    border-top: 1px solid #10b6de;
+}
